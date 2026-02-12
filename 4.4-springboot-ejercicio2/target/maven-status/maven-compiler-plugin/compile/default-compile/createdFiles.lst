@@ -1,0 +1,12 @@
+com\example4\__SpringBoot_Ejercicio2\repository\IDuenioRepository.class
+com\example4\__SpringBoot_Ejercicio2\dto\DuenioMascotaDTO.class
+com\example4\__SpringBoot_Ejercicio2\model\Mascota.class
+com\example4\__SpringBoot_Ejercicio2\repository\IMascotaRepository.class
+com\example4\__SpringBoot_Ejercicio2\controller\DuenioController.class
+com\example4\__SpringBoot_Ejercicio2\Application.class
+com\example4\__SpringBoot_Ejercicio2\controller\MascotaController.class
+com\example4\__SpringBoot_Ejercicio2\service\IDuenioService.class
+com\example4\__SpringBoot_Ejercicio2\service\DuenioService.class
+com\example4\__SpringBoot_Ejercicio2\service\MascotaService.class
+com\example4\__SpringBoot_Ejercicio2\model\Duenio.class
+com\example4\__SpringBoot_Ejercicio2\service\IMascotaService.class

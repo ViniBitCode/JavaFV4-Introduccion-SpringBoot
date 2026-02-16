@@ -1,7 +1,7 @@
 # Java APP N4! - API REST | Sistema para Veterinaria!
-💻 | Amigos de github, luego de realizar el curso de todocode de desarrollo de APIs, toco ponerlo en práctica!
-💻 | Siendo la primera API REST que hago, hice junto a SpringBoot el CRUD para una clase "Animal" y otra "Duenio", relacionandolas a las 2 con la annotation @OneToOne!
-💻 | Además, debí implementar 2 servicios gratuitos de hosting para que esto funcionara: uno para la BBDD y otro para la app dockerizada. 
+💻 | Amigos de github, luego de realizar el curso de todocode de desarrollo de APIs, toco ponerlo en práctica!  
+💻 | Siendo la primera API REST que hago, hice junto a SpringBoot el CRUD para una clase "Animal" y otra "Duenio", relacionandolas a las 2 con la annotation @OneToOne!  
+💻 | Además, debí implementar 2 servicios gratuitos de hosting para que esto funcionara: uno para la BBDD y otro para la app dockerizada.  
 
 ### **Algunas otras cosas que me faltaron poner en el sistema:**
 - Al ser una práctica de backend, en lo que son consultas no me faltó nada, si me falto alguna interfaz para enviar los datos.
